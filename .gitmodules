@@ -1,0 +1,3 @@
+[submodule "ConsoleAppHipotsub"]
+	path = ConsoleAppHipotsub
+	url = https://github.com/heliopas/ConsoleAPPHipot.git
